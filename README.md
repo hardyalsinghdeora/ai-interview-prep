@@ -7,6 +7,8 @@ An **FDE** is a software engineer who works directly with customers, builds and 
 **What's inside**
 - **17 roles**, each with an overview, the typical interview loop, role-specific questions with model answers, and a 6-week study plan
 - **17 shared topic sections** with more than 1,150 questions, each with a model answer
+- **[43 question lists by skill](skills/README.md)** with 1,674 questions on technologies such as Kubernetes, Elasticsearch, Kafka, Redis and Go, also useful for senior backend roles
+- **[24 cheatsheets](cheatsheets/README.md)** defining more than 2,100 technical and business terms
 
 > Sources: candidate reports (Glassdoor, Blind, 1point3acres), prep guides (Exponent/Aced, IGotAnOffer, Educative, techinterview.org, GSD Council), and the common structure of these interview loops. Interview content changes and is often under NDA, so company-specific items are marked *reported*, and volatile facts are marked *(verify)*.
 
@@ -17,7 +19,8 @@ An **FDE** is a software engineer who works directly with customers, builds and 
 1. **Pick your roles:** read the [role map](roles/README.md). It compares all 17 roles and shows which rounds each one gets.
 2. **Master the common questions:** [roles/COMMON-QUESTIONS.md](roles/COMMON-QUESTIONS.md) lists 60 questions asked in every role, each linked to its answer.
 3. **Follow the study plan for your role:** `roles/<role>/STUDY-PLAN.md`. Each plan links to the exact topic files to study, week by week.
-4. **Make it personal:** write your own stories using the [story bank checklist](topics/00-overview/README.md#story-bank-checklist-prepare-one-story-for-each), and adapt the model answers to your experience.
+4. **Drill the technologies in the job description:** use the [question lists by skill](skills/README.md), and look up unfamiliar terms in the [cheatsheets](cheatsheets/README.md).
+5. **Make it personal:** write your own stories using the [story bank checklist](topics/00-overview/README.md#story-bank-checklist-prepare-one-story-for-each), and adapt the model answers to your experience.
 
 ---
 
@@ -32,10 +35,16 @@ ai-interview-prep/
 │   └── NN-<role>/
 │       ├── README.md                 ← overview, loop, role-specific Q&A
 │       └── STUDY-PLAN.md             ← 6-week plan + 2-week crash plan
-└── topics/                           ← SHARED QUESTION BANK (by interview round)
-    └── NN-<topic>/
-        ├── README.md                 ← questions (checklist)
-        └── ANSWERS.md                ← model answers, same order (large topics also have ANSWERS-*.md)
+├── topics/                           ← SHARED QUESTION BANK (by interview round)
+│   └── NN-<topic>/
+│       ├── README.md                 ← questions (checklist)
+│       └── ANSWERS.md                ← model answers, same order (large topics also have ANSWERS-*.md)
+├── skills/                           ← QUESTION LISTS BY SKILL (no model answers)
+│   ├── README.md                     ← index of all 43 skills
+│   └── <skill>.md                    ← five levels of questions, plus a small project
+└── cheatsheets/                      ← TERM DEFINITIONS
+    ├── README.md                     ← index of all 24 cheatsheets
+    └── <subject>.md                  ← terms grouped in quick-reference tables
 ```
 
 ---
@@ -54,6 +63,8 @@ ai-interview-prep/
 | **SI** | Systems integrator |
 | **DS&A** | Data structures and algorithms |
 | **Loop** | The full set of interview rounds for one application |
+
+For technical and business terms, see the [cheatsheets](cheatsheets/README.md).
 
 ---
 
