@@ -2,7 +2,7 @@
 
 Covers metrics, logs and traces, OpenTelemetry, service level terms, monitoring methods, incident response, resilience testing and disaster recovery.
 
-> Related: [Observability and reliability skill](../skills/observability-and-reliability.md) · [Debugging and troubleshooting](../topics/12-debugging-troubleshooting/README.md) · [Cloud, DevOps and integration](../topics/08-cloud-devops-integration/README.md) · [containers-and-kubernetes.md](containers-and-kubernetes.md) · [ci-cd-and-iac.md](ci-cd-and-iac.md) · [distributed-systems.md](distributed-systems.md)
+> Related: [Observability and reliability skill](../skills/observability-and-reliability.md) · [Debugging and troubleshooting](../topics/12-debugging-troubleshooting/README.md) · [Cloud, DevOps and integration](../topics/08-cloud-devops-integration/README.md) · [containers-and-kubernetes.md](containers-and-kubernetes.md) · [ci-cd-and-iac.md](ci-cd-and-iac.md) · [distributed-systems.md](distributed-systems.md) · [Monitoring tools cheatsheet](monitoring-tools.md)
 
 ## Three pillars
 
