@@ -1,6 +1,6 @@
 # Roles You Can Apply For
 
-"Forward deployed" work sits in a family of customer-facing technical roles. They share most interview rounds, but each one weights coding, customer work, sales and product differently, and each has its own special rounds.
+"Forward deployed" work sits in a family of customer-facing technical roles. They share most interview rounds, but each one weights coding, customer work, sales and product differently, and each has its own special rounds. Roles 18–20 are the core engineering track: they build and run the company's own product, with little customer contact, so their loops weight coding, design, delivery and people management instead.
 
 - **What every role asks:** [COMMON-QUESTIONS.md](COMMON-QUESTIONS.md)
 - **What only one role asks:** the role files below. Each has the role overview, the typical loop, a role-specific question checklist, model answers, and a 6-week study plan.
@@ -28,6 +28,9 @@
 | 15 | Technical Delivery Manager | Engagement Manager, Technical Program Manager (deployments) | SaaS vendors, SIs, consulting and services firms | [README](15-technical-delivery-manager/README.md) | [Study plan](15-technical-delivery-manager/STUDY-PLAN.md) |
 | 16 | Partner Solutions Engineer | Partner Engineer, Partner Solutions Architect, Alliances Engineer | Cloud providers, data and AI platforms, SaaS with partner ecosystems | [README](16-partner-solutions-engineer/README.md) | [Study plan](16-partner-solutions-engineer/STUDY-PLAN.md) |
 | 17 | Founding / Product Engineer | Founding Engineer, Product Engineer, early engineer | Early-stage startups (often AI) | [README](17-founding-product-engineer/README.md) | [Study plan](17-founding-product-engineer/STUDY-PLAN.md) |
+| 18 | Software Development Engineer (backend) | SDE, Software Engineer, Backend Engineer, Member of Technical Staff | Nearly every software company | [README](18-software-development-engineer/README.md) | [Study plan](18-software-development-engineer/STUDY-PLAN.md) |
+| 19 | Tech Lead | Technical Lead, Team Lead, Lead Engineer, Tech Lead Manager | Product companies, SaaS vendors, services firms, growing startups | [README](19-tech-lead/README.md) | [Study plan](19-tech-lead/STUDY-PLAN.md) |
+| 20 | Engineering Manager | Software Development Manager, Team Lead, Senior Engineering Manager | Product companies, SaaS vendors, banks and fintechs, growing startups | [README](20-engineering-manager/README.md) | [Study plan](20-engineering-manager/STUDY-PLAN.md) |
 
 Titles vary a lot between companies. Read the job description, not the title: the same work can be called "Solutions Engineer" at one company and "Forward Deployed Engineer" at another.
 
@@ -52,6 +55,9 @@ Titles vary a lot between companies. Read the job description, not the title: th
 | Technical Delivery Manager | Low | High | Low–Med | Med | Post-sale |
 | Partner Solutions Engineer | Med | High (partners) | Med–High (co-sell) | Med | Both |
 | Founding / Product Engineer | Very high | High (early users) | Med | Very high | Neither (builds the product) |
+| Software Development Engineer | Very high | Low | Low | Low–Med | Neither (builds the product) |
+| Tech Lead | Med–High | Low–Med | Low | Med–High | Neither (builds the product) |
+| Engineering Manager | Low | Low–Med | Low | Med–High | Neither (leads the team that builds it) |
 
 ## Which round types each role gets
 
@@ -89,6 +95,21 @@ Senior and adjacent roles (12–17):
 | Presentation | ✓ | ✓ | ✓ | ~ | ✓ | ~ |
 | Behavioral / leadership | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
+Engineering roles (18–20):
+
+| Round | SDE | Tech Lead | Engineering Manager |
+|---|---|---|---|
+| Recruiter / motivation | ✓ | ✓ | ✓ |
+| DS&A coding | ✓ | ~ | – |
+| Practical coding or code review | ~ | ✓ | ~ |
+| Low-level design / machine coding | ✓ | ~ | – |
+| System design | ✓ (mid level and above) | ✓ | ✓ |
+| Backend fundamentals or past-project deep dive | ✓ | ✓ | ~ |
+| Delivery and planning | – | ✓ | ✓ |
+| People management | – | ~ | ✓ |
+| Cross-functional (product, design, peers) | – | ✓ | ✓ |
+| Behavioral / leadership | ✓ | ✓ | ✓ |
+
 ## Choosing which roles to apply for
 
 - **You love writing code and want customer impact:** FDE, Applied AI Engineer, FD Data/ML, Agent Engineer.
@@ -102,5 +123,8 @@ Senior and adjacent roles (12–17):
 - **You want to own what gets built rather than deploy it:** Technical Product Manager or Founding / Product Engineer.
 - **You're strongest at planning and running large deployments:** Technical Delivery Manager.
 - **You like building integrations and working with partner companies:** Partner Solutions Engineer.
+- **You want to build and run backend systems without customer-facing work:** Software Development Engineer.
+- **You want to keep coding while leading a team's technical direction and delivery:** Tech Lead.
+- **You want to hire, grow and manage engineers:** Engineering Manager.
 
 Most people apply to 2–3 neighbouring roles. The prep overlaps heavily, so start with [COMMON-QUESTIONS.md](COMMON-QUESTIONS.md), then add each role's specific file.
