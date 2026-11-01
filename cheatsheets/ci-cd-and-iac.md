@@ -2,7 +2,7 @@
 
 Covers build and release pipelines, artefacts, deployment strategies, feature flags, GitOps, Terraform and DORA metrics.
 
-> Related: [Docker and CI/CD skill](../skills/docker-and-ci-cd.md) · [Terraform and IaC skill](../skills/terraform-and-iac.md) · [Cloud, DevOps and integration](../topics/08-cloud-devops-integration/README.md) · [containers-and-kubernetes.md](containers-and-kubernetes.md) · [cloud-services.md](cloud-services.md) · [observability-and-reliability.md](observability-and-reliability.md)
+> Related: [Docker and CI/CD skill](../skills/docker-and-ci-cd.md) · [Terraform and IaC skill](../skills/terraform-and-iac.md) · [Cloud, DevOps and integration](../topics/08-cloud-devops-integration/README.md) · [containers-and-kubernetes.md](containers-and-kubernetes.md) · [cloud-services.md](cloud-services.md) · [observability-and-reliability.md](observability-and-reliability.md) · [CI/CD tools cheatsheet](ci-cd-tools.md)
 
 ## Pipelines
 

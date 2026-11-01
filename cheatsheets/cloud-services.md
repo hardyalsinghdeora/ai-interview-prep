@@ -2,7 +2,7 @@
 
 Covers core cloud terms and maps equivalent AWS, Google Cloud and Azure services across compute, storage, databases, messaging, networking, identity and AI.
 
-> Related: [AWS skill](../skills/aws.md) · [Google Cloud skill](../skills/google-cloud-gcp.md) · [Azure skill](../skills/azure.md) · [AWS topic](../topics/16-aws/README.md) · [Cloud, DevOps and integration](../topics/08-cloud-devops-integration/README.md) · [containers-and-kubernetes.md](containers-and-kubernetes.md) · [ci-cd-and-iac.md](ci-cd-and-iac.md) · [security-and-auth.md](security-and-auth.md)
+> Related: [AWS skill](../skills/aws.md) · [Google Cloud skill](../skills/google-cloud-gcp.md) · [Azure skill](../skills/azure.md) · [AWS topic](../topics/16-aws/README.md) · [Cloud, DevOps and integration](../topics/08-cloud-devops-integration/README.md) · [containers-and-kubernetes.md](containers-and-kubernetes.md) · [ci-cd-and-iac.md](ci-cd-and-iac.md) · [security-and-auth.md](security-and-auth.md) · [AWS cheatsheet](aws.md) · [GCP & Azure cheatsheet](gcp-and-azure.md)
 
 ## Service models
 

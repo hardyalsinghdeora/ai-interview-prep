@@ -7,8 +7,8 @@ An **FDE** is a software engineer who works directly with customers, builds and 
 **What's inside**
 - **17 roles**, each with an overview, the typical interview loop, role-specific questions with model answers, and a 6-week study plan
 - **17 shared topic sections** with more than 1,150 questions, each with a model answer
-- **[43 question lists by skill](skills/README.md)** with 1,674 questions on technologies such as Kubernetes, Elasticsearch, Kafka, Redis and Go, also useful for senior backend roles
-- **[24 cheatsheets](cheatsheets/README.md)** defining more than 2,100 technical and business terms
+- **[55 question lists by skill](skills/README.md)** with 2,199 questions on technologies such as AWS, Kubernetes, Elasticsearch, RabbitMQ, Kafka and Redis, plus lists for SDE, Tech Lead and Engineering Manager interviews
+- **[35 cheatsheets](cheatsheets/README.md)** defining more than 3,000 technical and business terms
 
 > Sources: candidate reports (Glassdoor, Blind, 1point3acres), prep guides (Exponent/Aced, IGotAnOffer, Educative, techinterview.org, GSD Council), and the common structure of these interview loops. Interview content changes and is often under NDA, so company-specific items are marked *reported*, and volatile facts are marked *(verify)*.
 
@@ -40,10 +40,10 @@ ai-interview-prep/
 │       ├── README.md                 ← questions (checklist)
 │       └── ANSWERS.md                ← model answers, same order (large topics also have ANSWERS-*.md)
 ├── skills/                           ← QUESTION LISTS BY SKILL (no model answers)
-│   ├── README.md                     ← index of all 43 skills
+│   ├── README.md                     ← index of all 55 skills, and what to prepare by level
 │   └── <skill>.md                    ← five levels of questions, plus a small project
 └── cheatsheets/                      ← TERM DEFINITIONS
-    ├── README.md                     ← index of all 24 cheatsheets
+    ├── README.md                     ← index of all 35 cheatsheets
     └── <subject>.md                  ← terms grouped in quick-reference tables
 ```
 

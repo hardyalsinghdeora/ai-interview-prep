@@ -2,7 +2,7 @@
 
 Covers queues and logs, Kafka, RabbitMQ, SQS, Pub/Sub, delivery semantics, change data capture, schema management and Flink stream processing.
 
-> Related: [Kafka and event streaming skill](../skills/kafka-and-event-streaming.md) · [System design](../topics/03-system-design/README.md) · [distributed-systems.md](distributed-systems.md) · [data-engineering.md](data-engineering.md) · [cloud-services.md](cloud-services.md) · [system-design.md](system-design.md)
+> Related: [Kafka and event streaming skill](../skills/kafka-and-event-streaming.md) · [System design](../topics/03-system-design/README.md) · [distributed-systems.md](distributed-systems.md) · [data-engineering.md](data-engineering.md) · [cloud-services.md](cloud-services.md) · [system-design.md](system-design.md) · [RabbitMQ cheatsheet](rabbitmq.md)
 
 ## Core concepts
 

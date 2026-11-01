@@ -2,7 +2,7 @@
 
 Covers Elasticsearch and OpenSearch terms, Redis data types and operations, cache patterns, eviction policies, stampede protection and CDN caching.
 
-> Related: [System design](../topics/03-system-design/README.md) · [System design skill](../skills/system-design.md) · [Vector databases skill](../skills/vector-databases.md) · [system-design.md](system-design.md) · [databases-and-sql.md](databases-and-sql.md) · [networking-and-web.md](networking-and-web.md)
+> Related: [System design](../topics/03-system-design/README.md) · [System design skill](../skills/system-design.md) · [Vector databases skill](../skills/vector-databases.md) · [system-design.md](system-design.md) · [databases-and-sql.md](databases-and-sql.md) · [networking-and-web.md](networking-and-web.md) · [Elastic stack cheatsheet](elastic-stack.md)
 
 ## Search basics
 
