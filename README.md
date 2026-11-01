@@ -1,11 +1,11 @@
 # AI Interview Prep — Forward Deployed Engineer & Customer-Facing Technical Roles
 
-A complete interview prep kit for **Forward Deployed Engineer (FDE)** and the family of customer-facing technical roles around it: Solutions Engineer, Solutions Architect, Applied AI Engineer, Technology / AI Consultant, Field CTO and more. It covers companies such as Palantir, OpenAI, Anthropic, Scale AI, Databricks, the major cloud providers, consulting firms and AI startups.
+A complete interview prep kit for **Forward Deployed Engineer (FDE)** and the family of customer-facing technical roles around it: Solutions Engineer, Solutions Architect, Applied AI Engineer, Technology / AI Consultant, Field CTO and more. It covers companies such as Palantir, OpenAI, Anthropic, Scale AI, Databricks, the major cloud providers, consulting firms and AI startups. It also has guides for the core engineering track: backend Software Development Engineer, Tech Lead and Engineering Manager.
 
 An **FDE** is a software engineer who works directly with customers, builds and ships production solutions on the company's platform, and feeds what they learn back into the product. See [Terms used in this repo](#terms-used-in-this-repo) for the other abbreviations.
 
 **What's inside**
-- **17 roles**, each with an overview, the typical interview loop, role-specific questions with model answers, and a 6-week study plan
+- **20 roles**, each with an overview, the typical interview loop, role-specific questions with model answers, and a 6-week study plan
 - **17 shared topic sections** with more than 1,150 questions, each with a model answer
 - **[55 question lists by skill](skills/README.md)** with 2,199 questions on technologies such as AWS, Kubernetes, Elasticsearch, RabbitMQ, Kafka and Redis, plus lists for SDE, Tech Lead and Engineering Manager interviews
 - **[35 cheatsheets](cheatsheets/README.md)** defining more than 3,000 technical and business terms
@@ -16,7 +16,7 @@ An **FDE** is a software engineer who works directly with customers, builds and 
 
 ## Start here
 
-1. **Pick your roles:** read the [role map](roles/README.md). It compares all 17 roles and shows which rounds each one gets.
+1. **Pick your roles:** read the [role map](roles/README.md). It compares all 20 roles and shows which rounds each one gets.
 2. **Master the common questions:** [roles/COMMON-QUESTIONS.md](roles/COMMON-QUESTIONS.md) lists 60 questions asked in every role, each linked to its answer.
 3. **Follow the study plan for your role:** `roles/<role>/STUDY-PLAN.md`. Each plan links to the exact topic files to study, week by week.
 4. **Drill the technologies in the job description:** use the [question lists by skill](skills/README.md), and look up unfamiliar terms in the [cheatsheets](cheatsheets/README.md).
@@ -30,7 +30,7 @@ An **FDE** is a software engineer who works directly with customers, builds and 
 ai-interview-prep/
 ├── README.md                         ← you are here
 ├── roles/                            ← WHAT TO APPLY FOR
-│   ├── README.md                     ← role map: 17 roles compared, rounds per role
+│   ├── README.md                     ← role map: 20 roles compared, rounds per role
 │   ├── COMMON-QUESTIONS.md           ← asked in every role, linked to answers
 │   └── NN-<role>/
 │       ├── README.md                 ← overview, loop, role-specific Q&A
@@ -58,6 +58,8 @@ ai-interview-prep/
 | **FD** | Forward deployed, as in FD Data / ML |
 | **SE / SA** | Solutions Engineer / Solutions Architect |
 | **CE / TAM** | Customer Engineer / Technical Account Manager |
+| **SDE** | Software Development Engineer |
+| **TL / EM** | Tech Lead / Engineering Manager |
 | **Tech PM** | Technical Product Manager |
 | **TPM** | Usually Technical Program Manager. In LLM rate limits it means tokens per minute |
 | **SI** | Systems integrator |
@@ -89,6 +91,9 @@ For technical and business terms, see the [cheatsheets](cheatsheets/README.md).
 | 15 | Technical Delivery Manager | [README](roles/15-technical-delivery-manager/README.md) | [Plan](roles/15-technical-delivery-manager/STUDY-PLAN.md) |
 | 16 | Partner Solutions Engineer | [README](roles/16-partner-solutions-engineer/README.md) | [Plan](roles/16-partner-solutions-engineer/STUDY-PLAN.md) |
 | 17 | Founding / Product Engineer | [README](roles/17-founding-product-engineer/README.md) | [Plan](roles/17-founding-product-engineer/STUDY-PLAN.md) |
+| 18 | Software Development Engineer (backend) | [README](roles/18-software-development-engineer/README.md) | [Plan](roles/18-software-development-engineer/STUDY-PLAN.md) |
+| 19 | Tech Lead | [README](roles/19-tech-lead/README.md) | [Plan](roles/19-tech-lead/STUDY-PLAN.md) |
+| 20 | Engineering Manager | [README](roles/20-engineering-manager/README.md) | [Plan](roles/20-engineering-manager/STUDY-PLAN.md) |
 
 ## Shared topics (by interview round)
 
